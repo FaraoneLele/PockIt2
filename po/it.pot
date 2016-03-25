@@ -316,8 +316,8 @@ msgid "No Results Found"
 msgstr "Nessun risultato trovato"
 
 #: /home/turan/Apps/PockIt/PockIt/ui/Search.qml:69
-msgid "x"
-msgstr ""
+msgid "There were no items that matched your search."
+msgstr "Non ci sono stati gli elementi che corrispondono alla tua ricerca."
 
 #: /home/turan/Apps/PockIt/PockIt/ui/Settings.qml:25
 msgid "List Order"
